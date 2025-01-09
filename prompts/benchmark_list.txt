@@ -1,0 +1,29 @@
+1. IFEval
+Description: IFEval is designed to evaluate a model's inferential reasoning capabilities, particularly its ability to deduce relationships and interactions between entities, events, or concepts. This benchmark is ideal for assessing logical reasoning and understanding in language models.
+When to Use: Use IFEval when testing how well a model can infer connections and deduce implications from provided information. It is particularly suitable for tasks involving narrative reasoning, causality, or logical deduction.
+Difference: Compared to other benchmarks, IFEval focuses more on reasoning and inference rather than domain knowledge or problem-solving in specific fields.
+
+2. BBH (Big-Bench Hard)
+Description: BBH is part of the Big-Bench Hard dataset, which includes challenging and diverse problems designed to evaluate advanced reasoning, creativity, and problem-solving. BBH covers tasks that require deep cognitive capabilities, often beyond surface-level understanding.
+When to Use: Use BBH when assessing a model's ability to handle complex, open-ended, or unconventional tasks, especially those involving creativity and abstract thinking.
+Difference: BBH is distinct in its focus on the hardest subset of tasks, making it a rigorous test of a model’s cognitive limits compared to other benchmarks.
+
+3. MATH Lvl 5
+Description: MATH Lvl 5 assesses a model’s ability to solve advanced mathematical problems, ranging from high school to early college-level topics, including algebra, geometry, calculus, and number theory.
+When to Use: Use MATH Lvl 5 when testing a model's proficiency in handling mathematical reasoning and computations or when deploying models in education or STEM domains.
+Difference: Unlike other benchmarks that test linguistic or general reasoning, MATH Lvl 5 specifically evaluates numerical, logical, and symbolic reasoning within mathematics.
+
+4. GPQA (General-Purpose Question Answering)
+Description: GPQA measures a model's ability to answer a wide range of questions spanning multiple topics and domains. It evaluates general knowledge, contextual understanding, and reasoning capabilities.
+When to Use: Use GPQA for general-purpose applications like virtual assistants, chatbots, or information retrieval systems where broad knowledge and reasoning are required.
+Difference: GPQA stands out by testing breadth (many topics) rather than depth in any single domain or specific reasoning skill.
+
+5. MUSR (Multilingual Understanding and Semantic Reasoning)
+Description: MUSR evaluates a model's ability to understand and reason across multiple languages. It focuses on semantic reasoning, including comprehension, translation, and context-based inference in a multilingual setup.
+When to Use: Use MUSR when working on multilingual applications or testing a model's language understanding and semantic reasoning across different languages.
+Difference: MUSR is unique in its multilingual focus, whereas other benchmarks like GPQA or IFEval are primarily monolingual or domain-specific.
+
+6. MMLU-PRO (Massive Multitask Language Understanding - Professional)
+Description: MMLU-PRO is a benchmark designed to evaluate professional and domain-specific knowledge. It tests a model's expertise in areas like law, medicine, and engineering, requiring precise, field-specific understanding.
+When to Use: Use MMLU-PRO for domain-specific applications, especially in technical or professional fields where accurate and authoritative responses are critical.
+Difference: MMLU-PRO focuses on domain-specific expertise, unlike GPQA, which tests general-purpose knowledge, or IFEval, which emphasizes inferential reasoning.

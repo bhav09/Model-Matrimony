@@ -1,0 +1,6 @@
+streamlit
+pandas
+datasets
+google-generativeai
+python-dotenv
+google-cloud-storage
