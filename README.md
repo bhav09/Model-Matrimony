@@ -23,7 +23,7 @@ Follow these steps to set up and start your journey to finding the perfect LLM:
 First, clone this repo to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/model-matrimony.git
+git clone https://github.com/bhav09/model-matrimony.git
 cd model-matrimony
 ```
 
