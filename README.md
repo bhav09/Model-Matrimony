@@ -1,6 +1,6 @@
 # Model Matrimony: Finding the Perfect LLM Match 💍
 
-Welcome to **Model Matrimony**, where I help you find your ideal Large Language Model (LLM) based on Open LLM Benchmarks! If you're tired of swiping left on models that don't quite meet your needs, this project is here to match you with the perfect partner for your task. ❤️✨
+Welcome to **Model Matrimony**, where I help you find your ideal Large Language Model (LLM) based on Open LLM Benchmarks! If you're tired of swiping left on models that don't quite meet your needs, this project is here to match you with the perfect partner for your task. 
 
 
 ## What is Model Matrimony? 🤔
