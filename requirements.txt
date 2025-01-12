@@ -4,3 +4,8 @@ datasets
 google-generativeai
 python-dotenv
 google-cloud-storage
+google-cloud-bigquery 
+google-auth
+streamlit-feedback
+deep-translator 
+langdetect
